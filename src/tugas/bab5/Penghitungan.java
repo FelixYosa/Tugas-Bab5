@@ -18,4 +18,8 @@ public class Penghitungan {
     public void pembagian(){
         bagi = a/b;
     }
+    
+    public void sederhana(){
+        desimal = c/d;
+    }
 }
