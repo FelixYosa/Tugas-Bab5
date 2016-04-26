@@ -1,3 +1,6 @@
+//Nama : Felix Yosa H. S.
+//NIM : 155150400111129
+//Kelas : SI-H
 package tugas2;
 
 public class Jaket {
