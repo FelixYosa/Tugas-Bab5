@@ -7,4 +7,7 @@ public class Penghitungan {
         jum = a+b;
     }
     
+    public static void pengurangan(){
+        kurang = a-b;
+    }
 }
