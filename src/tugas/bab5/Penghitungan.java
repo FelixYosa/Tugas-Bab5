@@ -10,4 +10,9 @@ public class Penghitungan {
     public static void pengurangan(){
         kurang = a-b;
     }
+    
+    public void perkalian(){
+        kali = a*b;
+    }
+    
 }
