@@ -15,4 +15,7 @@ public class Penghitungan {
         kali = a*b;
     }
     
+    public void pembagian(){
+        bagi = a/b;
+    }
 }
